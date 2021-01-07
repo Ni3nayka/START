@@ -1,2 +1,2 @@
 # START
-Тhis repository was created just to be :)
+This repository was created just to be :)
